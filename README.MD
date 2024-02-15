@@ -1,7 +1,7 @@
 # Cheat Engine Web Demo
 
 This is a web-based demo/example of a cheat engine implemented in JavaScript. It provides a user interface where you can interact with variables and labels, as well as perform memory scans.
-Live demo (HERE)[https://chunkymonkey00.github.io/JScheatengine/]
+Live demo [https://chunkymonkey00.github.io/JScheatengine/](HERE)
 
 ## Features
 
